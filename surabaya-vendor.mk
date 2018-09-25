@@ -144,6 +144,7 @@ PRODUCT_COPY_FILES += \
     vendor/smartisan/surabaya/proprietary/etc/sensors/hals.conf:system/etc/sensors/hals.conf \
     vendor/smartisan/surabaya/proprietary/etc/sensors/sensor_def_qcomdev.conf:system/etc/sensors/sensor_def_qcomdev.conf \
     vendor/smartisan/surabaya/proprietary/lib/hw/audio.primary.msm8996.so:system/lib/hw/audio.primary.msm8996.so \
+    vendor/smartisan/surabaya/proprietary/lib/hw/bluetooth.msm8996.so:system/lib/hw/bluetooth.msm8996.so \
     vendor/smartisan/surabaya/proprietary/lib/hw/camera.msm8996.so:system/lib/hw/camera.msm8996.so \
     vendor/smartisan/surabaya/proprietary/lib/libarcsoft_agegender_detection.so:system/lib/libarcsoft_agegender_detection.so \
     vendor/smartisan/surabaya/proprietary/lib/libarcsoft_beautyshot.so:system/lib/libarcsoft_beautyshot.so \
