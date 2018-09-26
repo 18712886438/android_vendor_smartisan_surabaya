@@ -210,6 +210,7 @@ PRODUCT_COPY_FILES += \
     vendor/smartisan/surabaya/proprietary/vendor/lib/libactuator_lc898214xd.so:system/vendor/lib/libactuator_lc898214xd.so \
     vendor/smartisan/surabaya/proprietary/vendor/lib/libactuator_lc898217xc.so:system/vendor/lib/libactuator_lc898217xc.so \
     vendor/smartisan/surabaya/proprietary/vendor/lib/libactuator_rohm_bu64243gwz.so:system/vendor/lib/libactuator_rohm_bu64243gwz.so \
+    vendor/smartisan/surabaya/proprietary/vendor/lib/libbt-vendor.so:system/vendor/lib/libbt-vendor.so \
     vendor/smartisan/surabaya/proprietary/vendor/lib/libchromatix_csidtg_common.so:system/vendor/lib/libchromatix_csidtg_common.so \
     vendor/smartisan/surabaya/proprietary/vendor/lib/libchromatix_csidtg_cpp_preview.so:system/vendor/lib/libchromatix_csidtg_cpp_preview.so \
     vendor/smartisan/surabaya/proprietary/vendor/lib/libchromatix_csidtg_postproc.so:system/vendor/lib/libchromatix_csidtg_postproc.so \
@@ -1075,7 +1076,8 @@ PRODUCT_COPY_FILES += \
     vendor/smartisan/surabaya/proprietary/vendor/lib/libqomx_jpegdec.so:system/vendor/lib/libqomx_jpegdec.so \
     vendor/smartisan/surabaya/proprietary/vendor/lib/libqomx_jpegenc.so:system/vendor/lib/libqomx_jpegenc.so \
     vendor/smartisan/surabaya/proprietary/vendor/lib/libqomx_jpegenc_pipe.so:system/vendor/lib/libqomx_jpegenc_pipe.so \
-    vendor/smartisan/surabaya/proprietary/vendor/lib/libtof_vl53l0.so:system/vendor/lib/libtof_vl53l0.so
+    vendor/smartisan/surabaya/proprietary/vendor/lib/libtof_vl53l0.so:system/vendor/lib/libtof_vl53l0.so \
+    vendor/smartisan/surabaya/proprietary/vendor/lib64/libbt-vendor.so:system/vendor/lib64/libbt-vendor.so
 
 PRODUCT_PACKAGES += \
     ifaa_fw
